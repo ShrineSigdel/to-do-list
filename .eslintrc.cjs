@@ -22,5 +22,11 @@ module.exports = {
     sourceType: 'module',
   },
   rules: {
+    'react/prop-types': 'off',
+    'react/destructuring-assignment': 'off',
+    'react/button-has-type': 'off',
+    'no-console': 'off',
+    'react/no-unescaped-entities': 'off',
+    'max-len': 'off',
   },
 };
