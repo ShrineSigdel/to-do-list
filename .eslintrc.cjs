@@ -28,5 +28,10 @@ module.exports = {
     'no-console': 'off',
     'react/no-unescaped-entities': 'off',
     'max-len': 'off',
+    'jsx-a11y/label-has-associated-control': 'off',
+    'array-callback-return': 'off',
+    'consistent-return': 'off',
+    'react/jsx-no-bind': 'off',
+    'react/jsx-props-no-spreading': 'off',
   },
 };
